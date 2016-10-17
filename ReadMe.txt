@@ -14,7 +14,7 @@ to confirm success.
 Audio format information for the source file and output file are also displayed.
 
 Interruption handling during audio processing (conversion) is also demonstrated.
-
+ 
 ===========================================================================
 RELATED INFORMATION:
 
@@ -26,7 +26,7 @@ SPECIAL CONSIDERATIONS:
 
 AAC encoding using the Audio Converter requires iOS 4.1 and a hardware capable device such
 as the iPhone 3GS or newer.
-
+ 
 iPhone 5s does not have a hardware encoder and only one encoder will show up.
 
 ===========================================================================
