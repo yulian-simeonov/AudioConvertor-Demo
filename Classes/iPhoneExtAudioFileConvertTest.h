@@ -3,7 +3,7 @@
     Abstract: The application delegate.
      Version: 1.2.1
     
-    Copyright (C) 2014 Yulian Simeonov. All Rights Reserved.
+    Copyright (C) 2014 Yulian. All Rights Reserved.
     
 */
  
